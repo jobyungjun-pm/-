@@ -28,3 +28,5 @@ git a---
 | 협업/배포 | GitHub 업로드, Streamlit Cloud 배포 |
 
 ---
+
+** 4. 재밌다 **
